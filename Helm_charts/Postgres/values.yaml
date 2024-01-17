@@ -8,4 +8,4 @@ container:
   env:
     user: daven
     password: dave2024
-    db: authdb
+    db: my_pgdb
