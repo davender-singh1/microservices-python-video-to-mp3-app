@@ -5,5 +5,5 @@ metadata:
 data:
   DATABASE_HOST: db
   DATABASE_NAME: authdb
-  DATABASE_USER: daven
+  DATABASE_USER: nasi
   AUTH_TABLE: auth_user
